@@ -1,4 +1,4 @@
-<h1> Imersão Front-end 2024 	🎶 </h1>  
+<h1> Imersão Front-end da Alura 2024 	🎶 </h1>  
 
 <p> Imersão que ocorreu nos dias 22 até 26 de Janeiro.<br>
 Nessa Imersão tivemos a oportunidade de absorver alguns conteudos referentes a HTML, CSS e JavaScript</p><br><br>
